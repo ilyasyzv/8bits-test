@@ -27,7 +27,7 @@ export const useMarketStore = defineStore('marketStore', {
       }
     },
 
-    startPolling(intervalMs = 10000) {
+    startPolling(intervalMs = 15000) {
       this.stopPolling()
 
       this.fetchMarketData()

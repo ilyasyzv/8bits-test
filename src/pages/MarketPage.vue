@@ -35,7 +35,7 @@ const marketStore = useMarketStore()
 
 onMounted(() => {
   currencyStore.fetchCurrencies()
-  marketStore.startPolling(10000)
+  marketStore.startPolling(15000)
 })
 
 onBeforeUnmount(() => {
