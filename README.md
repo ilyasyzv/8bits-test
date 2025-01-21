@@ -1,6 +1,7 @@
 # Crypto Market Summary App
 
 A simple Vue 3 application that displays crypto market data, including currency information and real-time market updates. The app polls for market data, allowing users to see up-to-date prices, price changes, and volumes for various trading pairs. It also includes search and filter capabilities, as well as basic price history charts for each pair.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8383dfd5-57c9-47de-be3a-2fa11add05c9" />
 
 ---
 
